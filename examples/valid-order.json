@@ -1,0 +1,9 @@
+{
+  "id": "po-10001",
+  "customerId": "retailer-northstar",
+  "currency": "USD",
+  "items": [
+    { "sku": "JEDI-ROBE-BROWN-M", "quantity": 2 },
+    { "sku": "LIGHTSABER-TRAINING", "quantity": 1 }
+  ]
+}
